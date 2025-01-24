@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**kkevin2003/kkevin2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+✨ **Welcome on my profile!** ✨
 
 - 🔭 I’m currently working on ...
+
+My portfolio site
+
 - 🌱 I’m currently learning ...
+
+Svelte and Sveltekit
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Various Svelte packages
+
